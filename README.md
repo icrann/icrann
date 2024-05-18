@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">My name is Crann Moroney from Ireland<br><br>- <img src="https://bulkbrains.com/img/bulkbrains.svg" height="16" alt="BulkBrains Logo"/> Director of <a href="https://bulkbrains.com">BulkBrains</a><br>- <img src="https://icrann.ie/img/logo.png" height="16" alt="ICrann Logo"/> Director of <a href="https://icrann.ie">ICrann</a><br>- 📚 Currently using JavaScript as my primary language</p>
+<p align="left">My name is Crann Moroney from Ireland<br><br>- <img src="https://bulkbrains.com/img/bulkbrains.svg" height="16" alt="BulkBrains Logo"/> Director of <a target="_blank" href="https://bulkbrains.com">BulkBrains</a><br>- <img src="https://icrann.ie/img/logo.png" height="16" alt="ICrann Logo"/> Director of <a target="_blank" href="https://icrann.ie">ICrann</a><br>- 📚 Currently using JavaScript as my primary language</p>
 
 ###
 
