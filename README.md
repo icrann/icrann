@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">My name is Crann Moroney from Ireland<br><br>- 🧑‍💼 Director of BulkBrains<br>- 🧑‍💼 Director of ICrann<br>- 📚 Currently using JavaScript as my primary language</p>
+<p align="left">My name is Crann Moroney from Ireland<br><br>- <img src="https://bulkbrains.com/img/bulkbrains.svg" height="16" alt="BulkBrains Logo"/> Director of BulkBrains<br>- <img src="https://icrann.ie/img/logo.png" height="16" alt="ICrann Logo"/> Director of ICrann<br>- 📚 Currently using JavaScript as my primary language</p>
 
 ###
 
