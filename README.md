@@ -1,16 +1,8 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/62957317?v=4"/>
-</div>
-
-###
-
-<div align="center">
+  <h1>Crann Moroney</h1>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id"  />
+  <h2 align="center">Hey There 👋</h2>
 </div>
-
-###
-
-<h1 align="center">Hey There 👋</h1>
 
 ###
 
