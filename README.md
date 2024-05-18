@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Crann Moroney</h1>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=icrann"  />
   <h2 align="center">Hey There 👋</h2>
 </div>
 
