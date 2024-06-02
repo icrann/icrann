@@ -55,7 +55,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=icrann&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=icrann&rank=SECRET,SSS,SS,S&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=-1"/><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=icrann&rank=AAA,AA,A&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=-1"/><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icrann&theme=dracula&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" style="width:420px;height:auto"/><br>
 </div>
 
 ###
